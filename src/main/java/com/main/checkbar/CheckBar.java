@@ -6,6 +6,10 @@ import java.lang.String;
 import java.lang.Integer;
 
 
+/**
+ * function check(String Barcode) will get a Barcode in String format and output
+ * 0 if incorrent; else Character according to ISO/IES 7064 mod. 37/36 standard
+ */
 public class CheckBar {
 
     public CheckBar() {
